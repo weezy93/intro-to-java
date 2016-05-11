@@ -18,3 +18,5 @@ public class Person {
   }
 
 }
+
+// Person rambo is an 'instance variable'
